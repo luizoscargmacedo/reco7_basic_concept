@@ -1,4 +1,4 @@
-# reco7_basic_concept
+# Reco7 Basic Concept
 
 
 > Left/Right Recognition Program: A Recognise app built with React Native.
